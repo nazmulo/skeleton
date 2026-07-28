@@ -1,1 +1,1 @@
-![Image Description](images/Screenshot 2026-07-28 202624.png)
+![Image Description](images/images/Screenshot2026-07-28202624.png.png)
