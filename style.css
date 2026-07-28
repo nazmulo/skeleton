@@ -617,7 +617,7 @@ h1 {
 .container.reel h1 { font-size: 1.6rem; }
 .container.reel .title-sub { font-size: 0.62rem; margin-top: 0.15rem; }
 
-/* ═══ REDUCED MOTION ═══ */
+/* ═══ REDUCED MOTION ═══ add*/
 @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after {
         animation-duration: 0.01ms !important;
